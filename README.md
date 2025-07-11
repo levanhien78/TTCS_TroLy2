@@ -1,5 +1,4 @@
-# 💬 Chatbot Anh Lập Trình
-
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
+# 💬 Trợ lý HCM
+Trợ lý được tạo ra bởi anh Lê Văn Hiền
 
 
